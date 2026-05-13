@@ -78,11 +78,11 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
     } 
     printf("\n"); 
     return 0; 
-}
+    }
 
 # OUTPUT
 
-<img width="1569" height="993" alt="image" src="https://github.com/user-attachments/assets/3c124a88-2285-4dbb-8479-8b2f19f1bdc7" />
+<img width="1127" height="691" alt="Screenshot 2026-05-13 101532" src="https://github.com/user-attachments/assets/8bf89a10-0739-419c-aa44-355d3883b3cf" />
 
 
 # RESULT
